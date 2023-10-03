@@ -1,3 +1,4 @@
+[![An image of @lor's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lor)](https://holopin.io/@lor)
 - 👋 Hi, I’m @LordA2117
 - 👀 I’m interested in backend development, AI and machine learning.
 - 🌱 I’m currently learning web development.
