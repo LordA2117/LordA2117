@@ -10,5 +10,4 @@ LordA2117/LordA2117 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-## Tryhackme Badges
-![tryhackme stats](https://raw.githubusercontent.com/LordA2117/LordA2117/master/assets/thm_propic.png)
+
