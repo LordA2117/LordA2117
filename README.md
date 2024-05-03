@@ -4,8 +4,8 @@
 ![LordA2117's Stats](https://github-readme-stats.vercel.app/api?username=LordA2117&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LordA2117&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-- 👀 Aspiring hacker.  
-- 🌱 I’m currently learning Ethical Hacking and Penetration testing.
+- 👀 Interested.  
+- 🌱 Learning Ethical Hacking and Penetration testing.
   
 
 ## Skills
