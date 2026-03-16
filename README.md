@@ -2,7 +2,7 @@
 # Hi, I’m @LordA2117 👋
 
 # 💫 About Me:
-🔭 I’m currently working on HackTheBox Machines and CTFs<br>🌱 I’m currently learning Binary Exploitation<br>💬 Ask me about anything computer science related!<br>⚡ Fun fact: (damn, idk)
+🔭 I’m currently working on HackTheBox Machines and CTFs<br>🌱 I’m currently learning Binary Exploitation<br>💬 Ask me about anything computer science related!<br>⚡ Fun fact: (damn, idk) <br> 🌐 Visit my portfolio [here](https://portfolio.bobbysmiles.xyz/)
 
 
 ## 🌐 Socials:
